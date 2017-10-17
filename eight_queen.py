@@ -6,7 +6,7 @@ def queens(num=8,state=()):
             if len(state)==num-1:
                 yield(pos,)
             else:
-                for result in queens(num,state+(pos,)):
+                for result in queens(num,state+(pos,)):#递归
                     yield (pos,)+result
 
 
