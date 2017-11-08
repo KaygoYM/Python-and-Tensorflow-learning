@@ -1,3 +1,4 @@
+#author:KAI
 import random
 
 def queens(num=8,state=()):
