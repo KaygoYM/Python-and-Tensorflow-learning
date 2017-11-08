@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 17 14:12:14 2017
 
-@author: hamch
+@author: KAI
 """
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
