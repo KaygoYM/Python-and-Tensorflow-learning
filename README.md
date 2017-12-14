@@ -1,2 +1,3 @@
 # Python-and-Tensorflow-learning
-learning codes and applications about Python and Tensorflow
+Learning codes and applications about Python and Tensorflow.</br>
+Reference: Morvan zhou.
