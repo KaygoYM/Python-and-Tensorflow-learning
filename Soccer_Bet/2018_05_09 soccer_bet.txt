@@ -1,0 +1,364 @@
+match name:	18亚冠杯十六强
+match members:	鹿岛鹿角 VS 上海上港集团
+match time:	比赛时间2018-05-09 18:00
+min_profit:	107.915147004
+win:	170 Zebet.fr	2.85	37.89
+draw:	24 必发	3.6	30.00
+lose:	28 Matchbook	3.36	32.12
+match name:	18日联杯小组赛
+match members:	新泻天鹅 VS 东京FC
+match time:	比赛时间2018-05-09 18:00
+min_profit:	98.152866242
+win:	23 必发	4.6	21.34
+draw:	25 1xBet	3.68	26.70
+lose:	23 必发	1.89	51.96
+match name:	18日联杯小组赛
+match members:	仙台维加泰 VS 横滨水手
+match time:	比赛时间2018-05-09 18:00
+min_profit:	99.6617142857
+win:	25 1xBet	2.58	38.63
+draw:	12 Pinnacle平博	3.6	27.70
+lose:	30 Smarkets	2.96	33.68
+match name:	18日联杯小组赛
+match members:	札幌冈萨多 VS 甲府风林
+match time:	比赛时间2018-05-09 18:00
+min_profit:	99.9618320611
+win:	129 SuperSport	2.1	47.60
+draw:	1 威廉希尔	3.5	28.57
+lose:	4 Bet365	4.2	23.83
+match name:	18日联杯小组赛
+match members:	磐田喜悦 VS 清水鼓动
+match time:	比赛时间2018-05-09 18:00
+min_profit:	98.9683417085
+win:	25 1xBet	2.37	41.76
+draw:	23 必发	3.35	29.55
+lose:	23 必发	3.45	28.69
+match name:	18日联杯小组赛
+match members:	广岛三箭 VS 大阪钢巴
+match time:	比赛时间2018-05-09 18:00
+min_profit:	100.141825345
+win:	78 CMD368.com	1.82	55.02
+draw:	23 必发	3.95	25.41
+lose:	12 Pinnacle平博	5.13	19.57
+match name:	18日联杯小组赛
+match members:	神户胜利船 VS 湘南海洋
+match time:	比赛时间2018-05-09 18:00
+min_profit:	98.9932885906
+win:	26 1xBet	1.76	56.25
+draw:	12 Pinnacle平博	3.85	25.75
+lose:	145 Topgoal	5.5	18.00
+match name:	18日联杯小组赛
+match members:	浦和红钻 VS 名古屋鲸八
+match time:	比赛时间2018-05-09 18:30
+min_profit:	99.362962963
+win:	23 必发	1.52	65.37
+draw:	46 Babibet	4.9	20.37
+lose:	4 Bet365	7.0	14.26
+match name:	18亚冠杯十六强
+match members:	蔚山现代 VS 水原三星
+match time:	比赛时间2018-05-09 19:00
+min_profit:	104.338138925
+win:	42 皇家	2.85	36.61
+draw:	24 必发	3.25	32.11
+lose:	110 Marathon(马博)	3.34	31.28
+match name:	18日联杯小组赛
+match members:	鸟栖沙岩 VS 长崎航海
+match time:	比赛时间2018-05-09 19:00
+min_profit:	101.95993503
+win:	23 必发	2.64	38.66
+draw:	25 1xBet	3.52	28.97
+lose:	30 Smarkets	3.15	32.38
+match name:	17/18西甲第34轮
+match members:	巴塞罗那 VS 比利亚雷亚尔
+match time:	比赛时间2018-05-10 02:00
+min_profit:	133.864864865
+win:	3 立博	1.95	68.65
+draw:	56 Balkan Bet	6.5	20.62
+lose:	30 Matchbook	12.5	10.73
+match name:	17/18英超第35轮
+match members:	切尔西 VS 哈德斯菲尔德
+match time:	比赛时间2018-05-10 02:45
+min_profit:	102.346153846
+win:	106 Europe-bet	1.23	83.21
+draw:	69 Betfair ES Sportsbook	8.5	12.10
+lose:	85 BetVictor	22.0	4.69
+match name:	17/18英超第31轮
+match members:	莱切斯特城 VS 阿森纳
+match time:	比赛时间2018-05-10 02:45
+min_profit:	114.712828771
+win:	20 Mansion88 (明升)	4.3	26.68
+draw:	25 必发	4.3	26.68
+lose:	187 Villabet	2.46	46.65
+match name:	17/18苏超第37轮
+match members:	凯尔特人 VS 基尔马诺克
+match time:	比赛时间2018-05-10 02:45
+min_profit:	103.654147105
+win:	103 Europe-bet	1.3	79.73
+draw:	30 Matchbook	7.2	14.40
+lose:	30 Matchbook	18.0	5.87
+match name:	17/18苏超第37轮
+match members:	哈茨 VS 希伯尼安
+match time:	比赛时间2018-05-10 02:45
+min_profit:	108.794788274
+win:	25 必发	4.4	24.76
+draw:	27 1xBet	3.64	29.91
+lose:	96 CoolBet	2.4	45.33
+match name:	17/18英超第31轮
+match members:	曼彻斯特城 VS 布赖顿
+match time:	比赛时间2018-05-10 03:00
+min_profit:	102.258893281
+win:	105 Europe-bet	1.18	86.66
+draw:	24 必发	10.5	9.78
+lose:	74 Bethard	29.0	3.56
+match name:	17/18英超第31轮
+match members:	托特纳姆热刺 VS 纽卡斯尔联
+match time:	比赛时间2018-05-10 03:00
+min_profit:	106.896864686
+win:	23 108bet	1.31	81.60
+draw:	29 Matchbook	8.6	12.46
+lose:	59 Betfair ES Sportsbook	18.0	5.94
+match name:	17/18意杯决赛
+match members:	尤文图斯 VS AC米兰
+match time:	比赛时间2018-05-10 03:00
+min_profit:	102.863691932
+win:	100 Europe-bet	1.95	52.75
+draw:	117 Marsbet	3.63	28.36
+lose:	175 Villabet	5.45	18.89
+match name:	17/18西甲第34轮
+match members:	塞维利亚 VS 皇家马德里
+match time:	比赛时间2018-05-10 03:30
+min_profit:	123.754889179
+win:	52 Admiral	4.65	26.64
+draw:	52 Admiral	4.2	29.47
+lose:	161 Stoiximan	2.82	43.89
+match name:	17/18阿甲第25轮
+match members:	竞技俱乐部 VS 兵工厂
+match time:	比赛时间2018-05-10 04:45
+min_profit:	105.754356846
+win:	132 Olimpkz	1.34	78.92
+draw:	117 Marathon(马博)	7.1	14.94
+lose:	55 Betano.pl	17.25	6.14
+match name:	18南俱杯第一圈
+match members:	特木科 VS 艾斯图第安特
+match time:	比赛时间2018-05-10 06:15
+min_profit:	99.8431372549
+win:	24 必发	1.73	57.73
+draw:	1 威廉希尔	3.8	26.27
+lose:	21 香港马会	6.25	16.00
+match name:	18巴西杯第五圈
+match members:	米内罗美洲 VS 帕尔梅拉斯
+match time:	比赛时间2018-05-10 06:30
+min_profit:	100.163309744
+win:	124 Synot TIP	4.58	21.94
+draw:	24 1xBet	3.58	27.98
+lose:	22 必发	2.0	50.08
+match name:	17/18阿甲第25轮
+match members:	拉普拉塔体操 VS 博卡青年
+match time:	比赛时间2018-05-10 07:00
+min_profit:	128.931750742
+win:	56 Betano.pl	8.0	16.14
+draw:	32 Smarkets	4.0	32.28
+lose:	2 澳门	2.5	51.57
+match name:	18美职联第11轮
+match members:	亚特兰大联 VS 堪萨斯城竞技
+match time:	比赛时间2018-05-10 07:30
+min_profit:	99.4927797834
+win:	24 必发	1.71	58.18
+draw:	9 伟德	4.2	23.71
+lose:	112 Marathon(马博)	5.5	18.11
+match name:	18美职联第11轮
+match members:	哥伦布机员 VS 费城联合
+match time:	比赛时间2018-05-10 07:30
+min_profit:	100.036101083
+win:	24 必发	1.7	58.84
+draw:	24 必发	4.3	23.29
+lose:	99 Fonbet	5.6	17.87
+match name:	18美职联第11轮
+match members:	多伦多FC VS 西雅图海湾人
+match time:	比赛时间2018-05-10 07:30
+min_profit:	100.160798122
+win:	26 1xBet	1.67	59.98
+draw:	24 必发	4.3	23.30
+lose:	76 BetVictor	6.0	16.73
+match name:	18美职联第11轮
+match members:	芝加哥火焰 VS 蒙特利尔冲击
+match time:	比赛时间2018-05-10 08:30
+min_profit:	99.3896976484
+win:	24 必发	1.79	55.54
+draw:	7 皇冠	4.15	23.96
+lose:	74 BetUS	4.85	20.49
+match name:	18南俱杯第一圈
+match members:	博塔弗戈 VS 奥达科斯意大利人
+match time:	比赛时间2018-05-10 08:45
+min_profit:	99.5657587549
+win:	22 必发	1.42	70.12
+draw:	1 威廉希尔	5.0	19.92
+lose:	3 Bet365	10.0	9.96
+match name:	18南俱杯第一圈
+match members:	圣保罗 VS 罗萨里奥中央
+match time:	比赛时间2018-05-10 08:45
+min_profit:	105.67361668
+win:	48 Balkan Bet	1.75	60.38
+draw:	144 Tipsport	4.01	26.38
+lose:	23 必发	8.0	13.23
+match name:	18巴西杯第五圈
+match members:	巴伊亚 VS 瓦斯科达伽马
+match time:	比赛时间2018-05-10 08:45
+min_profit:	101.555429864
+win:	74 Gwbet	2.05	49.55
+draw:	1 威廉希尔	3.5	29.02
+lose:	60 Caliente	4.75	21.44
+match name:	18美职联第11轮
+match members:	洛杉矶FC VS 明尼苏达联
+match time:	比赛时间2018-05-10 10:00
+min_profit:	102.493730408
+win:	41 IFortuna.eu	1.42	72.18
+draw:	26 1xBet	5.9	17.55
+lose:	24 必发	10.0	10.27
+match name:	17/18荷甲欧联附加
+match members:	海牙 VS 维迪斯
+match time:	比赛时间2018-05-10 00:30
+min_profit:	102.015761095
+win:	110 Marathon(马博)	3.12	32.73
+draw:	110 Marathon(马博)	3.64	28.04
+lose:	94 Europe-bet	2.6	39.24
+match name:	17/18荷甲欧联附加
+match members:	海伦芬 VS 乌德勒支
+match time:	比赛时间2018-05-10 02:45
+min_profit:	102.319939348
+win:	142 Stoiximan	2.8	36.54
+draw:	24 1xBet	3.62	28.28
+lose:	80 Bookmaker.eu	2.91	35.18
+match name:	17/18荷乙附加赛2
+match members:	特尔斯达 VS 格拉夫夏普
+match time:	比赛时间2018-05-10 18:30
+min_profit:	103.106499181
+win:	20 1xBet	3.88	26.60
+draw:	100 TopSport	3.95	26.11
+lose:	22 Smarkets	2.18	47.30
+match name:	17/18荷乙附加赛2
+match members:	埃门 VS 奈梅亨
+match time:	比赛时间2018-05-10 20:30
+min_profit:	99.9595323741
+win:	23 Smarkets	3.25	30.80
+draw:	87 Stoiximan	3.75	26.66
+lose:	57 Europe-bet	2.35	42.54
+match name:	17/18比甲第8轮
+match members:	安德莱赫特 VS 标准列日
+match time:	比赛时间2018-05-10 20:30
+min_profit:	102.240896359
+win:	27 1xBet	2.27	45.05
+draw:	101 Efbet	3.65	28.01
+lose:	5 Interwetten	3.8	26.94
+match name:	17/18瑞典杯决赛
+match members:	佐加顿斯 VS 马尔默
+match time:	比赛时间2018-05-10 21:00
+min_profit:	101.018237082
+win:	4 Interwetten	2.95	34.25
+draw:	79 Stoiximan	3.45	29.28
+lose:	61 Marathon(马博)	2.77	36.47
+match name:	17/18比甲第8轮
+match members:	沙勒罗瓦 VS 布鲁日
+match time:	比赛时间2018-05-10 23:59
+min_profit:	113.312274368
+win:	11 Bwin	3.9	29.06
+draw:	13 Pinnacle平博	3.72	30.46
+lose:	32 Smarkets	2.8	40.48
+match name:	17/18比甲第8轮
+match members:	亨克 VS 根特
+match time:	比赛时间2018-05-11 02:30
+min_profit:	98.6538461538
+win:	27 1xBet	2.1	46.98
+draw:	101 Efbet	3.65	27.03
+lose:	11 Bwin	3.8	25.99
+match name:	17/18英超第31轮
+match members:	西汉姆联 VS 曼彻斯特联
+match time:	比赛时间2018-05-11 02:45
+min_profit:	101.310673822
+win:	128 Villabet	5.26	19.26
+draw:	127 Victory	3.9	26.24
+lose:	26 Smarkets	1.86	54.50
+match name:	17/18英甲附加赛
+match members:	查尔顿 VS 什鲁斯伯里
+match time:	比赛时间2018-05-11 02:45
+min_profit:	99.2788038698
+win:	24 必发	2.26	43.93
+draw:	108 Marathon(马博)	3.32	29.90
+lose:	24 必发	3.8	26.17
+match name:	18南俱杯第一圈
+match members:	纽维尔老男孩 VS 巴拉纳竞技
+match time:	比赛时间2018-05-11 06:15
+min_profit:	98.7212943633
+win:	22 1xBet	1.95	50.63
+draw:	26 Smarkets	3.45	28.65
+lose:	80 Goalbet	4.77	20.72
+match name:	18南俱杯第一圈
+match members:	波士顿河 VS 贾奎斯科尔多巴
+match time:	比赛时间2018-05-11 06:15
+min_profit:	96.9142857143
+win:	9 利记	2.08	46.70
+draw:	1 威廉希尔	3.2	30.29
+lose:	62 Marathon(马博)	4.25	23.01
+match name:	18巴西杯第五圈
+match members:	科林蒂安 VS 维多利亚
+match time:	比赛时间2018-05-11 06:30
+min_profit:	101.532033426
+win:	19 1xBet	1.49	68.18
+draw:	1 威廉希尔	4.5	22.56
+lose:	88 Marcaapuestas	11.0	9.26
+match name:	18巴西杯第五圈
+match members:	弗拉门戈 VS 庞特普雷塔
+match time:	比赛时间2018-05-11 06:30
+min_profit:	99.16
+win:	83 Goalbet	1.34	74.00
+draw:	19 1xBet	5.4	18.37
+lose:	66 Caliente	13.0	7.63
+match name:	17/18阿甲第25轮
+match members:	河床 VS 拉普拉塔大学生
+match time:	比赛时间2018-05-11 07:00
+min_profit:	100.020618557
+win:	35 Betano.pl	1.65	60.62
+draw:	20 1xBet	4.1	24.40
+lose:	9 Pinnacle平博	6.71	14.98
+match name:	18南俱杯第一圈
+match members:	国民波托斯 VS 弗鲁米嫩塞
+match time:	比赛时间2018-05-11 08:45
+min_profit:	102.898550725
+win:	119 Sportsbet.com.au	1.83	56.24
+draw:	133 TopSport	4.3	23.97
+lose:	18 香港马会	5.2	19.79
+match name:	18南俱杯第一圈
+match members:	麦德林独立 VS 索尔美洲队
+match time:	比赛时间2018-05-11 08:45
+min_profit:	97.5987606507
+win:	60 Betway(必威)	1.45	67.31
+draw:	123 Tipsport	4.64	21.07
+lose:	90 Marathon(马博)	8.4	11.62
+match name:	17/18荷乙附加赛2
+match members:	多德勒支 VS 鹿特丹斯巴达
+match time:	比赛时间2018-05-10 22:45
+min_profit:	99.8178789561
+win:	43 Marathon(马博)	4.65	21.49
+draw:	38 Goalbet	4.22	23.65
+lose:	26 Betcity	1.82	54.86
+match name:	17/18荷乙附加赛2
+match members:	阿尔梅勒城 VS 罗达JC
+match time:	比赛时间2018-05-11 02:00
+min_profit:	103.210827465
+win:	37 Gwbet	3.3	31.29
+draw:	47 Olimpkz	3.94	26.23
+lose:	29 Bookmaker.eu	2.43	42.47
+match name:	17/18墨西联秋半决赛
+match members:	桑托斯拉古纳 VS 墨西哥美洲
+match time:	比赛时间2018-05-11 08:30
+min_profit:	98.2527075812
+win:	20 1xBet	2.43	40.43
+draw:	20 1xBet	3.44	28.61
+lose:	74 Marathon(马博)	3.18	30.96
+match name:	17/18墨西联秋半决赛
+match members:	蒂华纳 VS 托卢卡
+match time:	比赛时间2018-05-11 10:30
+min_profit:	98.4726688103
+win:	17 Eurobet	2.45	40.19
+draw:	20 1xBet	3.32	29.66
+lose:	68 Goalbet	3.27	30.14
