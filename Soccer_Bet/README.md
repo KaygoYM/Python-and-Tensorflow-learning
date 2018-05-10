@@ -1,11 +1,13 @@
-Soccer Bet 寻找竟足博彩收益最优投资方案
+Soccer Bet 寻找竞足博彩收益最优投资方案
 ====
 Greedy+GA 贪婪算法+遗传算法
 ----
 
 **根据不同公司的赔率寻找最优的博彩投资方案**</br>
 2018俄罗斯世界杯就要来啦！</br>
-`各博彩公司的赔率数据来自于500.com.仅适用于在所爬公司拥有账户并能实时下注`</br>
+`利用不同公司的赔率不同来实现稳定盈利的足球博彩方案`</br>
+`各博彩公司的赔率数据来自于500.com.`</br>
+`仅适用于在所爬公司拥有账户并能实时下注`</br>
 
 参考和致谢_Reference & Thanks: [A Soccer Bet Strategy Project-wzhe06](https://github.com/wzhe06/soccerbet) </br>
 
