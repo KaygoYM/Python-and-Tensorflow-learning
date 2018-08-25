@@ -3,6 +3,7 @@
 * `斗鱼TV主播直播数据和弹幕的统计和分析`[链接](https://github.com/KaygoYM/Douyu-danmu-spark)</br>
 * `BiliBili UP主成绩报告`[链接](https://github.com/KaygoYM/Bilibili_Uploader_Analyze)</br>
 * `人脸关键位置的定位和识别(深度学习)`[链接](https://github.com/KaygoYM/Facial-keypoints-detection)</br>
+* `大数据预测模型`[链接](https://github.com/KaygoYM/Big-Data-Prediction)</br>
 
 ## 小玩具
 * `足球博彩`[链接](https://github.com/KaygoYM/Python-and-Tensorflow-learning/tree/master/Soccer_Bet)</br>
